@@ -9,6 +9,8 @@ th .mat-icon.mat-default {
 th .mat-icon.mat-default:hover {
     opacity: 1;
 }
+th .mat-header-cell{
+background-color:#ccccc8c8}
 
 [hidden] {
     display: none;
